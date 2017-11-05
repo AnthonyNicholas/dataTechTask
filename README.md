@@ -22,5 +22,5 @@ TASK 2:
 5. Cleanse fatality data in dataDict - extract total fatalities, discard breakup of passenger/crew numbers.
 6. Produce sum of total fatalities using dataframe.sum().
 7. Produce top 3 airlines with the highest rate of incidents from dataframe using dataframe.groupby()
-8. 
- 
+8. Produce year with the highest incidents - used dataframe.groupby() 
+
