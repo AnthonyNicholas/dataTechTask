@@ -21,4 +21,6 @@ TASK 2:
 4. Used beautifulSoup to parse each page in crashPages list and extract data.  Put data into dataDict.
 5. Cleanse fatality data in dataDict - extract total fatalities, discard breakup of passenger/crew numbers.
 6. Produce sum of total fatalities using dataframe.sum().
-  
+7. Produce top 3 airlines with the highest rate of incidents from dataframe using dataframe.groupby()
+8. 
+ 
