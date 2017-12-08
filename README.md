@@ -4,6 +4,7 @@ Data Engineer Technical Task
 ## To Run ##  
 1. Run using shell script: ./start_tt.sh
 2. This will create and launch docker container.  You will be provided with Jupyter Notebook url.  Copy/paste this URL into your browser.
+3. The two tasks are in notebooks labelled tt_task1.ipynb and tt_task2.ipynb.  Run each notebook to see the results for each question.  The results are also output into html files which are saved for reference in the docker container. 
 
 ## Steps I took to complete task ##
 
